@@ -20,12 +20,12 @@ To help the business **proactively retain high-risk customers** by predicting ch
 ## ⭐ Key Features
 
 ### 🛠️ Data Engineering
-- Ingestion and schema inspection with **PySpark**
+- Ingestion and schema inspection with **Pandas**
 - Data cleaning, transformation, and feature engineering
 - Handling of missing values, categorical encoding, and outlier filtering
 
 ### 🤖 Machine Learning
-- Feature selection and model training using **XGBoost**
+- Feature selection and model training using **XGBoost** and ***PySpark***
 - Evaluation via accuracy, precision, recall, and confusion matrix
 - Hyperparameter tuning for improved performance
 
@@ -45,10 +45,9 @@ The data comes from a public telecom customer database, consisting of:
 
 ---
 
-## 🧱 Project Structure
-├── data/                  # Raw dataset files (CSV)
-├── notebooks/             # Jupyter notebooks for exploration & modelling
-├── scripts/               # Python scripts for transformation and modelling
-├── models/                # Trained model artifacts (XGBoost)
-├── results/               # Outputs like evaluation metrics and charts
-└── README.md              # Project overview
+## 🚀 How to Run
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/MathiasHMorgan/Customer-Churn-Wrangling-Modelling-Project
+cd Customer-Churn-Wrangling-Modelling-Projec
