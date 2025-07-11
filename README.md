@@ -50,4 +50,4 @@ The data comes from a public telecom customer database, consisting of:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/MathiasHMorgan/Customer-Churn-Wrangling-Modelling-Project
-cd Customer-Churn-Wrangling-Modelling-Projec
+cd Customer-Churn-Wrangling-Modelling-Project
